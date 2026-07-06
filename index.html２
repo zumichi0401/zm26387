@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>自己紹介</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>檜森 壬智の自己紹介</h1>
+    </header>
+
+    <main>
+        <section class="profile">
+            <img src="images/profile.jpg" alt="プロフィール写真" class="profile-img">
+
+            <h2>プロフィール</h2>
+
+            <p><strong>名前：</strong>檜森 壬智（ひもり みずち）</p>
+            <p><strong>年齢：</strong>18歳</p>
+            <p><strong>出身地：</strong>秋田県</p>
+
+            <p class="message">
+                はじめまして！このホームページでは、私の趣味や好きなことについて紹介しています。
+                よかったら次のページも見てください。
+            </p>
+
+            <a href="hobby.html" class="button">趣味・好きなものを見る</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Mizuchi Himori</p>
+    </footer>
+
+</body>
+</html>
