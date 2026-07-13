@@ -1,4 +1,4 @@
-alert('Hello, 自分の名前!');
+alert('Hello, mizuchi!');
 alert(1+1);
 alert(Math.sqrt(1+1));
 alert(2+3);
